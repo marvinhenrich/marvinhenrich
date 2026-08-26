@@ -23,7 +23,7 @@ nachvollziehbar und ohne Abhängigkeit von einem fremden Dienst.
 
 ### Projekte
 
-**[OpenSignage](https://github.com/marvinhenrich/opensignage)** — Digital-Signage-CMS als
+**[OpenSignage](https://github.com/marvinhenrich/OpenSignage)** — Digital-Signage-CMS als
 Ablösung für Xibo. Die Player hängen an einer dauerhaften WebSocket-Verbindung, eine
 Änderung ist in etwa einer Sekunde auf dem Bildschirm statt beim nächsten Abrufintervall.
 Dazu ein Windows-Kiosk-Paket, das Geräte unbeaufsichtigt einrichtet, eine Live-Übersicht
