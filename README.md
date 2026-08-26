@@ -32,6 +32,14 @@ Läuft produktiv. `docker compose up -d` genügt zum Starten.
 
 `TypeScript` `Node.js` `React` `PostgreSQL` `Docker` `WebSockets` `PowerShell`
 
+**[EnterpriseAI](https://github.com/marvinhenrich/EnterpriseAI)** — KI-Assistenz, die vollständig
+auf eigener Hardware läuft: Chat gegen ein lokales Sprachmodell, firmeneigenes Wissen mit
+Belegen, Anmeldung gegen Active Directory und eine vierstufige Datenklassifizierung, die bis in
+die Suche durchgesetzt wird. Keine Cloud, keine externen Schnittstellen.
+Alles in Modulen — was ein Betrieb nicht braucht, schaltet der Administrator ab.
+
+`TypeScript` `React` `SQLite` `Ollama` `RAG` `LDAP` `Docker`
+
 ---
 
 <sub>Erreichbar über <a href="https://net-evolution.de">net-evolution.de</a></sub>
