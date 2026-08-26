@@ -1,52 +1,73 @@
-## Marvin Henrich
+<img src="docs/hero.svg" alt="Marvin Henrich — Fachinformatiker für Systemintegration, selbstständig mit Net-Evolution" width="100%">
 
-Fachinformatiker für Systemintegration (in Ausbildung) — und selbstständig mit
+Mich interessiert die Stelle, an der Infrastruktur und Software aufeinandertreffen: Dinge, die
+im Betrieb laufen müssen, nicht nur in der Demo. Am liebsten selbst gehostet, nachvollziehbar
+und ohne Abhängigkeit von einem fremden Dienst.
+
+In Ausbildung zum **Fachinformatiker für Systemintegration**, daneben selbstständig mit
 [Net-Evolution](https://net-evolution.de), wo ich Betriebsabläufe automatisiere.
-
-Mich interessiert die Stelle, an der Infrastruktur und Software aufeinandertreffen: Dinge,
-die im Betrieb laufen müssen, nicht nur in der Demo. Am liebsten selbst gehostet,
-nachvollziehbar und ohne Abhängigkeit von einem fremden Dienst.
 
 ---
 
-### Schwerpunkte
+## Projekte
+
+### [OpenSignage](https://github.com/marvinhenrich/OpenSignage) · Digital Signage
+
+Ablösung für Xibo. Die Player hängen an einer dauerhaften WebSocket-Verbindung — eine Änderung
+im CMS ist in etwa einer Sekunde auf dem Bildschirm, statt beim nächsten Abrufintervall. Dazu
+ein Windows-Kiosk-Paket, das Geräte unbeaufsichtigt einrichtet, eine Live-Übersicht aller
+Bildschirme und eine Monitoring-Anbindung an Icinga 2.
+
+Läuft produktiv. Alles ist in Module geschnitten: was ein Betrieb nicht braucht, schaltet der
+Administrator ab — dann verschwindet es aus dem Menü **und aus der Schnittstelle**.
+
+<sub><code>TypeScript</code> · <code>React</code> · <code>Hono</code> · <code>PostgreSQL</code> · <code>WebSockets</code> · <code>Docker</code> · <code>PowerShell</code></sub>
+
+### [EnterpriseAI](https://github.com/marvinhenrich/EnterpriseAI) · KI im eigenen Netz
+
+Chat gegen ein lokales Sprachmodell, firmeneigenes Wissen mit Belegen, Anmeldung gegen Active
+Directory und eine vierstufige Datenklassifizierung, die bis in die Suche durchgesetzt wird.
+Keine Cloud, keine externen Schnittstellen.
+
+Name, Betreiber, Farbe und Sprache stellt ein Administrator in der Oberfläche ein — ohne Datei
+und ohne Neustart.
+
+<sub><code>TypeScript</code> · <code>React</code> · <code>SQLite</code> · <code>Ollama</code> · <code>RAG</code> · <code>LDAP</code> · <code>Docker</code></sub>
+
+### [x-Height](https://github.com/marvinhenrich/x-height) · Typografie
+
+InDesign-Skript, das Schriftgrößen so anpasst, dass die gemessene x-Höhe eine Vorgabe erreicht.
+Hintergrund ist **(EU) Nr. 1169/2011**: Pflichtangaben auf Lebensmittelverpackungen brauchen
+mindestens 1,2 mm x-Höhe — und die Punktgröße sagt darüber nichts aus, zwei Schriften können
+sich um mehr als ein Drittel unterscheiden. Gemessen wird am Zeichen selbst, nicht aus den
+Metriken geschätzt.
+
+<sub><code>ExtendScript</code> · <code>InDesign</code> · <code>Prepress</code></sub>
+
+---
+
+## Womit ich arbeite
 
 | | |
 |---|---|
-| **Betrieb** | Linux, Docker/Compose, nginx, TLS, PostgreSQL, systemd, Sicherung und Wiederherstellung |
-| **Entwicklung** | TypeScript, Node.js, React, Hono, Drizzle ORM, WebSockets |
-| **Client-Management** | Windows-Ausrollung, Assigned-Access-Kiosk, PowerShell, Active Directory |
-| **Monitoring** | Icinga 2, Betriebsprotokolle, Verfügbarkeit, Fehlerberichte |
-| **Automatisierung** | n8n, API-Anbindungen, wiederkehrende Abläufe ohne Handarbeit |
+| **Betrieb** | Linux · Docker & Compose · nginx · TLS · PostgreSQL · systemd · Sicherung und Wiederherstellung |
+| **Entwicklung** | TypeScript · Node.js · React · Hono · Drizzle ORM · WebSockets |
+| **Client-Management** | Windows-Ausrollung · Assigned-Access-Kiosk · PowerShell · Active Directory |
+| **Monitoring** | Icinga 2 · Betriebsprotokolle · Verfügbarkeit · Fehlerberichte |
+| **Automatisierung** | n8n · API-Anbindungen · wiederkehrende Abläufe ohne Handarbeit |
 
 ---
 
-### Projekte
+## Wie ich arbeite
 
-**[OpenSignage](https://github.com/marvinhenrich/OpenSignage)** — Digital-Signage-CMS als
-Ablösung für Xibo. Die Player hängen an einer dauerhaften WebSocket-Verbindung, eine
-Änderung ist in etwa einer Sekunde auf dem Bildschirm statt beim nächsten Abrufintervall.
-Dazu ein Windows-Kiosk-Paket, das Geräte unbeaufsichtigt einrichtet, eine Live-Übersicht
-aller Bildschirme und eine Monitoring-Anbindung an Icinga 2.
-Läuft produktiv. `docker compose up -d` genügt zum Starten.
+**Fertig heißt läuft.** Kein Platzhalter, der später ersetzt werden soll — was ich abgebe, ist so
+gebaut, dass es am selben Tag in Betrieb gehen kann.
 
-`TypeScript` `Node.js` `React` `PostgreSQL` `Docker` `WebSockets` `PowerShell`
+**Erst prüfen, dann behaupten.** Ein „müsste funktionieren" ist kein Ergebnis. Wenn ich schreibe,
+dass etwas läuft, habe ich es laufen sehen.
 
-**[EnterpriseAI](https://github.com/marvinhenrich/EnterpriseAI)** — KI-Assistenz, die vollständig
-auf eigener Hardware läuft: Chat gegen ein lokales Sprachmodell, firmeneigenes Wissen mit
-Belegen, Anmeldung gegen Active Directory und eine vierstufige Datenklassifizierung, die bis in
-die Suche durchgesetzt wird. Keine Cloud, keine externen Schnittstellen.
-Alles in Modulen — was ein Betrieb nicht braucht, schaltet der Administrator ab.
-
-`TypeScript` `React` `SQLite` `Ollama` `RAG` `LDAP` `Docker`
-
-**[x-Height](https://github.com/marvinhenrich/x-height)** — InDesign-Skript, das Schriftgrößen
-so anpasst, dass die gemessene x-Höhe eine Vorgabe erreicht. Hintergrund ist (EU) Nr. 1169/2011:
-Pflichtangaben auf Lebensmittelverpackungen brauchen mindestens 1,2 mm x-Höhe — und die
-Punktgröße sagt darüber nichts aus. Gemessen wird am Zeichen selbst, nicht aus den Metriken
-geschätzt.
-
-`ExtendScript` `InDesign` `Typografie` `Prepress`
+**Fehlermeldungen, die weiterhelfen.** Wer vor einem Problem steht, soll wissen, wo es sitzt —
+nicht raten müssen.
 
 ---
 
