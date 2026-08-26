@@ -40,6 +40,14 @@ Alles in Modulen — was ein Betrieb nicht braucht, schaltet der Administrator a
 
 `TypeScript` `React` `SQLite` `Ollama` `RAG` `LDAP` `Docker`
 
+**[x-Height](https://github.com/marvinhenrich/x-height)** — InDesign-Skript, das Schriftgrößen
+so anpasst, dass die gemessene x-Höhe eine Vorgabe erreicht. Hintergrund ist (EU) Nr. 1169/2011:
+Pflichtangaben auf Lebensmittelverpackungen brauchen mindestens 1,2 mm x-Höhe — und die
+Punktgröße sagt darüber nichts aus. Gemessen wird am Zeichen selbst, nicht aus den Metriken
+geschätzt.
+
+`ExtendScript` `InDesign` `Typografie` `Prepress`
+
 ---
 
 <sub>Erreichbar über <a href="https://net-evolution.de">net-evolution.de</a></sub>
