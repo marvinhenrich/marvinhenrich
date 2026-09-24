@@ -11,7 +11,7 @@ In Ausbildung zum **Fachinformatiker für Systemintegration**, daneben selbstst�
 
 ## Projekte
 
-### [OpenSignage](https://github.com/marvinhenrich/OpenSignage) · Digital Signage
+### OpenSignage · Digital Signage
 
 Ablösung für Xibo. Die Player hängen an einer dauerhaften WebSocket-Verbindung — eine Änderung
 im CMS ist in etwa einer Sekunde auf dem Bildschirm, statt beim nächsten Abrufintervall. Dazu
@@ -23,7 +23,7 @@ Administrator ab — dann verschwindet es aus dem Menü **und aus der Schnittste
 
 <sub><code>TypeScript</code> · <code>React</code> · <code>Hono</code> · <code>PostgreSQL</code> · <code>WebSockets</code> · <code>Docker</code> · <code>PowerShell</code></sub>
 
-### [EnterpriseAI](https://github.com/marvinhenrich/EnterpriseAI) · KI im eigenen Netz
+### EnterpriseAI · KI im eigenen Netz
 
 Chat gegen ein lokales Sprachmodell, firmeneigenes Wissen mit Belegen, Anmeldung gegen Active
 Directory und eine vierstufige Datenklassifizierung, die bis in die Suche durchgesetzt wird.
@@ -34,7 +34,7 @@ und ohne Neustart.
 
 <sub><code>TypeScript</code> · <code>React</code> · <code>SQLite</code> · <code>Ollama</code> · <code>RAG</code> · <code>LDAP</code> · <code>Docker</code></sub>
 
-### [x-Height](https://github.com/marvinhenrich/x-height) · Typografie
+### x-Height · Typografie
 
 InDesign-Skript, das Schriftgrößen so anpasst, dass die gemessene x-Höhe eine Vorgabe erreicht.
 Hintergrund ist **(EU) Nr. 1169/2011**: Pflichtangaben auf Lebensmittelverpackungen brauchen
