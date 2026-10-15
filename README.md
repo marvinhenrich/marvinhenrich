@@ -11,7 +11,7 @@ In meiner Ausbildung zum **Fachinformatiker für Systemintegration** betreue ich
 Windows-Geräte. Für den Ausbildungsbetrieb habe ich ein Digital-Signage-System und eine KI-Assistenz
 im eigenen Netz gebaut.
 
-Mit [Net-Evolution](https://net-evolution.de) schule ich Teams kleiner und mittlerer Firmen im Umgang
+Mit [Net-Evolution](https://net-evolution.de) schule ich Teams im Umgang
 mit KI, richte die Werkzeuge mit Firmenkonten ein und baue Abläufe mit n8n. Ich arbeite online in
 ganz Deutschland und vor Ort rund um Bad Kreuznach.
 
@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/7dcd07fc-3a06-4020-b944-5efb21a14ead
 
 ## Projekte
 
-**EnterpriseAI · KI im eigenen Netz** <sub>Ausbildungsprojekt</sub><br>
+**EnterpriseAI · KI im eigenen Netz** <sub>im Ausbildungsbetrieb</sub><br>
 Mitarbeitende fragen ein lokales Sprachmodell und bekommen Antworten mit Belegen aus dem Wissen der
 Firma. Die Anmeldung läuft über Active Directory, eine vierstufige Datenklassifizierung greift bis in
 die Suche. Das System braucht keine Cloud und keine externe Schnittstelle. Name, Farbe und Sprache
@@ -39,12 +39,12 @@ Umweg in der Belegablage.<br>
 <sub><code>n8n</code> <code>Sprachmodell mit JSON-Schema</code> <code>IMAP</code> <code>SMTP</code></sub>
 
 **Kundenportal** <sub>Net-Evolution</sub><br>
-In der iOS-App sehen Kunden die Freigaben, Belege und Meldungen ihrer Abläufe und geben dort frei.
-Jeder Betrieb sieht nur seine eigenen Daten. Die Anmeldung verlangt einen zweiten Faktor, die App
-entsperrt sich mit Face ID, und Schlüssel zu Fremddiensten liegen nur auf dem Server.<br>
+In der iOS-App sieht ein Betrieb die Freigaben, Belege und Meldungen seiner Abläufe und gibt dort
+frei. Jeder Betrieb sieht nur seine eigenen Daten. Die Anmeldung läuft mit zweitem Faktor, die App
+lässt sich mit Face ID entsperren, und Schlüssel zu Fremddiensten liegen nur auf dem Server.<br>
 <sub><code>TypeScript</code> <code>React Native</code> <code>Hono</code> <code>PostgreSQL</code> <code>Docker</code></sub>
 
-**OpenSignage · Digital Signage** <sub>Ausbildungsprojekt</sub><br>
+**OpenSignage · Digital Signage** <sub>im Ausbildungsbetrieb</sub><br>
 OpenSignage hat im Ausbildungsbetrieb Xibo abgelöst. Die Bildschirme hängen an einer dauerhaften
 WebSocket-Verbindung, eine Änderung im CMS erscheint nach etwa einer Sekunde. Dazu gehören ein
 Windows-Kiosk-Paket für die unbeaufsichtigte Einrichtung und eine Anbindung an Icinga 2.<br>
