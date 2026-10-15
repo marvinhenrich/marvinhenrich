@@ -17,7 +17,7 @@ ganz Deutschland und vor Ort rund um Bad Kreuznach.
 
 ## Net-Evolution in 28 Sekunden
 
-<!-- TRAILER -->
+https://github.com/user-attachments/assets/7dcd07fc-3a06-4020-b944-5efb21a14ead
 
 <sub>Sprecherstimme KI-generiert. Aufnahmen: Pexels. Musik: ende.app (CC BY 4.0).</sub>
 
