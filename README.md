@@ -9,9 +9,9 @@
 
 [net-evolution.de](https://net-evolution.de) · [Erstgespräch vereinbaren](https://net-evolution.de/termin) · [LinkedIn](https://www.linkedin.com/in/marvinhenrich/)
 
-## Net-Evolution in 28 Sekunden
+## Net-Evolution in 33 Sekunden
 
-https://github.com/user-attachments/assets/7dcd07fc-3a06-4020-b944-5efb21a14ead
+https://github.com/user-attachments/assets/5281287e-7384-47d6-8877-a218055df248
 
 <sub>Sprecherstimme KI-generiert. Aufnahmen: Pexels. Musik: ende.app (CC BY 4.0).</sub>
 
