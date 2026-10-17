@@ -11,7 +11,7 @@
 
 ## Net-Evolution in 33 Sekunden
 
-https://github.com/user-attachments/assets/5281287e-7384-47d6-8877-a218055df248
+https://github.com/user-attachments/assets/c5c51d0e-b64a-4972-9f45-d505dc896e20
 
 <sub>Sprecherstimme KI-generiert. Aufnahmen: Pexels. Musik: ende.app (CC BY 4.0).</sub>
 
